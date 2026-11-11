@@ -1,5 +1,7 @@
 # Enterprise Payment Migration Lab: Azure SQL → Databricks (Learning Project)
 
+[简体中文](README.zh-CN.md) | **English**
+
 **Status**: small local end-to-end demo + cloud implementation templates + **1.2 TB target-scale design**. Not a completed 1.2 TB migration or validated 21V deployment.
 
 ## Quick start (Python 3, standard library only)
